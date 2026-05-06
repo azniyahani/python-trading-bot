@@ -1,0 +1,2 @@
+2026-05-02 11:17:58,626 - INFO - Order placed: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'price': None, 'status': 'SUCCESS'}
+2026-05-02 11:20:58,700 - INFO - Order placed: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'price': 30000.0, 'status': 'SUCCESS'}
